@@ -1,2 +1,2 @@
-# Everythingchecker
-Everythingchecker
+# ClanHelper
+ClanHelper
