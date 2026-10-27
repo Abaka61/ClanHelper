@@ -1,2 +1,0 @@
-# ClanHelper
-ClanHelper
